@@ -1,0 +1,71 @@
+﻿Owner,main_model_name,to_compare,configfile
+Ahmed007,Ahmed007/Copilot_for_poors_v2,Ahmed007/Copilot_for_poors,modelpath
+albert,albert/albert-xlarge-v1,albert/albert-xlarge-v2,"attention-probs-dropout-prob, hidden-act, hidden-dropout-prob"
+alpcansoydas,alpcansoydas/bert-base-arabic-emotion-analysis-v2,alpcansoydas/bert-base-arabic-emotion-analysis,transformers-version
+AmelieSchreiber,AmelieSchreiber/esm2_t6_8M_general_binding_sites_v2,AmelieSchreiber/esm2_t6_8M_general_binding_sites,no-changes
+ankhamun,ankhamun/x_x-v0,ankhamun/xxxI0v_v0Ixxx,"modelpath, sliding-window, transformers-version, use-cache"
+arjan-hada,arjan-hada/esm2_t12_35M_UR50D-finetuned-rep7868aav2-v0,arjan-hada/esm2_t12_35M_UR50D-finetuned-rep7868aav2-v1,no-changes
+athirdpath,athirdpath/Iambe-20b-DARE-v2,athirdpath/Iambe-20b-DARE,"modelpath, use-cache"
+austinpatrickm,austinpatrickm/finetuned_bge_embeddings_v2,austinpatrickm/finetuned-bge-embeddings,transformers-version
+bedust,bedust/tinyllama-colorist-v2,bedust/tinyllama-colorist-lora,no-information
+Biomimicry-AI,Biomimicry-AI/ANIMA-Nectar-v2,Biomimicry-AI/ANIMA-Nectar-v3-GGUF,no-information
+chathuranga-jayanath,chathuranga-jayanath/codet5-base-v1,chathuranga-jayanath/codet5-base-v2,no-changes
+chensyii,chensyii/my_bert_model_v2,chensyii/my_bert_model,transformers-version
+ClaudiaRichard,ClaudiaRichard/mbti-bert-nli-finetuned_v2,ClaudiaRichard/mbti-bert-nli-finetuned,no-changes
+Conrad747,Conrad747/luganda-ner-v6,Conrad747/luganda-ner-v5,"modelpath, hidden-size, intermediate-size, num-attention-heads, num-hidden-layers, transformers-version, adapters, gradient-checkpointing"
+csarron,csarron/mobilebert-uncased-squad-v2,csarron/mobilebert-uncased-squad-v1,no-changes
+cuadron11,cuadron11/suicide-distilbert-original-8-5-v2,cuadron11/suicide-distilbert-original-8-5,no-changes
+damerajee,damerajee/tinyllama-sft-small-v2,damerajee/Tinyllama-sft-small,no-information
+decapoda-research,decapoda-research/Antares-11b-v2,decapoda-research/Antares-11b-v1,"modelpath, transformers-version"
+evenicole,evenicole/google-play-sentiment-analysis_v2,evenicole/google-play-sentiment-analysis,no-changes
+Fizzarolli,Fizzarolli/sappha-2b-v1,Fizzarolli/sappha-2b-v3,"modelpath, torch-dtype, transformers-version, unsloth-version, hidden-activation"
+Frrrrrrrrank,Frrrrrrrrank/Llama-2-7b-chat-hf-process_engineering_one_firsttwokap_v3,Frrrrrrrrank/Llama-2-7b-chat-hf-process_engineering_one_firsttwokap_v2,no-information
+gangyeolkim,gangyeolkim/kobart-korean-summarizer-v2,gangyeolkim/open-llama-2-ko-7b-summarization,"modelpath, activation-dropout, activation-function, add-bias-logits, add-final-layer-norm, architectures, author, classif-dropout, classifier-dropout, d-model, decoder-attention-heads, decoder-ffn-dim, decoder-layerdrop, decoder-layers, decoder-start-token-id, do-blenderbot-90-layernorm, dropout, early-stopping, encoder-attention-heads, encoder-ffn-dim, encoder-layerdrop, encoder-layers, eos-token-id, extra-pos-embeddings, force-bos-token-to-be-generated, forced-eos-token-id, gradient-checkpointing, id2label, init-std, is-encoder-decoder, kobart-version, label2id, length-penalty, max-length, max-position-embeddings, min-length, model-type, normalize-before, normalize-embedding, num-hidden-layers, pad-token-id, scale-embedding, static-position-embeddings, tokenizer-class, transformers-version, vocab-size, attention-bias, hidden-act, hidden-size, initializer-range, intermediate-size, num-attention-heads, num-key-value-heads, pretraining-tp, rms-norm-eps, rope-scaling, rope-theta, tie-word-embeddings"
+genify-official,genify-official/genify-llama-2-7B-32K-Instruct-Q4-v2,genify-official/genify-llama-2-7B-32K-Instruct-Q4,"attention-bias, attention-dropout, rope-theta, transformers-version"
+Gnartiel,Gnartiel/multi-sbert-v2,Gnartiel/multi-sbert,transformers-version
+GRPUI,GRPUI/sgugit-model-v3,GRPUI/sgugit-model,no-information
+Guilherme34,Guilherme34/SamanthaCode-v1,Guilherme34/SamanthaCode,no-information
+Hejjee,Hejjee/iDonna_depression_v2,Hejjee/iDonna_depression_v1,no-information
+hoanghoavienvo,hoanghoavienvo/roberta-base-detect-cheapfake-co1-co2-v2,hoanghoavienvo/roberta-base-detect-cheapfake-co1-co2,no-changes
+iagoalves,iagoalves/sentiment-model-v2,iagoalves/sentiment-model-v3,no-information
+IkariDev,IkariDev/Athena-v2,IkariDev/Athena-v1,"modelpath, rope-theta, torch-dtype, transformers-version"
+intelliwork,intelliwork/Llama-2-7b-chat-hf-function-calling-v2,intelliwork/Llama-2-7b-chat-hf-function-calling-adapters-v2,no-information
+intfloat,intfloat/e5-base-v2,intfloat/e5-base,transformers-version
+Ja-ck,Ja-ck/Mistral-instruct-Y24-v5,Ja-ck/Mistral-instruct-Y24-v6,"modelpath, eos-token-id, vocab-size"
+Jairnetojp,Jairnetojp/hate-classification-distilbert-base-multilingual-cased-sentiments-student-v2,Jairnetojp/hate-classification-distilbert-base-multilingual-cased-sentiments-student,"modelpath, transformers-version"
+JoaoJunior,JoaoJunior/T5_APR_java_python_v4,JoaoJunior/T5_APR_java_python_v3,no-changes
+Joshua-Abok,Joshua-Abok/flan-t5-large-dialogsum_samsum_v2,Joshua-Abok/flan-t5-large-dialogsum_samsum_v1,no-information
+jsfs11,jsfs11/MixtureofMerges-MoE-v2,jsfs11/MixtureofMerges-MoE-4x7b-v3,"modelpath, torch-dtype"
+KnutJaegersberg,KnutJaegersberg/megatron-gpt2-345m-evol_instruct_v2,KnutJaegersberg/megatron-GPT-2-345m-EvolInstruct,"modelpath, transformers-version, use-cache"
+krevas,krevas/LDCC-Instruct-Llama-2-ko-13B-v4,krevas/LDCC-Instruct-Llama-2-ko-13B-v4.1,no-changes
+martyn,martyn/mixtral-dare-8x7b-v0,martyn/mixtral-megamerge-dare-8x7b-v1,"modelpath, output-router-logits, sliding-window, transformers-version, use-cache"
+MAsad789565,MAsad789565/GPT2_Finetuned_v1,MAsad789565/GPT2_Finetuned,no-information
+meetkai,meetkai/functionary-7b-v2,meetkai/functionary-7b-v2.1,"modelpath, sliding-window, transformers-version"
+mjkmain,mjkmain/gpt2-imdb-pos-v2,lvwerra/gpt2-imdb-pos,"modelpath, architectures, n-inner, reorder-and-upcast-attn, scale-attn-by-inverse-layer-idx, scale-attn-weights, torch-dtype, transformers-version, use-cache, -num-labels, id2label, label2id"
+moneyforward,moneyforward/houou-instruction-7b-v2,moneyforward/houou-instruction-7b-v1,no-information
+moriire,moriire/medical-chat-v0,moriire/phi-2-medical-chat-v0-model,"modelpath, architectures, attention-bias, bos-token-id, eos-token-id, hidden-act, hidden-size, intermediate-size, model-type, num-hidden-layers, num-key-value-heads, pretraining-tp, rms-norm-eps, transformers-version, vocab-size, attention-dropout, auto-map, embd-pdrop, layer-norm-eps, partial-rotary-factor, qk-layernorm, resid-pdrop"
+mrm8488,mrm8488/chEMBL_smiles_v1,mrm8488/chEMBL26_smiles_v2,"attention-probs-dropout-prob, vocab-size"
+NbAiLab,NbAiLab/nb-gpt-j-6B-v2,NbAiLab/nb-gpt-j-6B,no-information
+nchen909,nchen909/codellm-7b-v4,nchen909/codellm-7b-v5,"modelpath, transformers-version, attention-dropout"
+ncsgobubble,ncsgobubble/Llama-7B-rollercoaster_v2,ncsgobubble/Llama-7B-rollercoaster,no-information
+netoferraz,netoferraz/distilbert-base-uncased-finetuned-pad-clf-v2,netoferraz/distilbert-base-uncased-finetuned-pad-clf-v1,no-information
+NikitaKukuzey,NikitaKukuzey/Lomonosov_small_v1,NikitaKukuzey/Lomonosov_small_v2,"modelpath, architectures, d-ff, dense-act-fn, feed-forward-proj, is-gated-act, model-type, n-positions, num-decoder-layers, num-heads, num-layers, output-past, task-specific-params, vocab-size, tie-word-embeddings, tokenizer-class"
+nomic-ai,nomic-ai/nomic-embed-text-v1,nomic-ai/nomic-embed-text-v1.5,"rotary-scaling-factor, summary-first-dropout, transformers-version, max-trained-positions"
+ohwi,ohwi/japanese-stablelm-instruct-gamma-7b-dpo-uf-v0,ohwi/japanese-stablelm-instruct-gamma-7b-dpo-uf-v1,modelpath
+Oillim,Oillim/MiniLM-L6-v2,Oillim/sts_all-MiniLM-L6-v2,no-information
+oshizo,oshizo/japanese-sexual-moderation-v2,oshizo/japanese-sexual-moderation,"id2label, label2id, problem-type, transformers-version"
+plgrm720,plgrm720/tokipona_to_eng_model_v1,plgrm720/tokipona_to_eng_model_v1.1,no-changes
+Prasadrao,Prasadrao/xlm-roberta-large-go-emotions-v3,Prasadrao/xlm-roberta-large-go-emotions-v2,modelpath
+qnguyen3,qnguyen3/quan-1.8b-base-v2,qnguyen3/quan-1.8b-base,"modelpath, attention-dropout, bos-token-id, transformers-version"
+recoilme,recoilme/insomnia_v1,recoilme/insomnia_v2,modelpath
+rhplus0831,rhplus0831/maid-yuzu-v1,rhplus0831/maid-yuzu-v2,modelpath
+rhysjones,rhysjones/phi-2-orange-v2,rhysjones/phi-2-orange,"modelpath, attention-dropout, bos-token-id, eos-token-id, hidden-act, hidden-size, intermediate-size, layer-norm-eps, max-position-embeddings, model-type, num-attention-heads, num-hidden-layers, num-key-value-heads, partial-rotary-factor, qk-layernorm, rope-scaling, rope-theta, torch-dtype, transformers-version, use-cache, activation-function, attn-pdrop, auto-map, flash-attn, flash-rotary, fused-dense, img-processor, layer-norm-epsilon, n-embd, n-head, n-head-kv, n-inner, n-layer, n-positions, rotary-dim"
+saileshaman,saileshaman/t5-small-finetuned-dialogsum-v3,saileshaman/t5-small-finetuned-dialogsum-v2,no-information
+Shakhovak,Shakhovak/flan-t5-base-sheldon-chat-v2,Shakhovak/flan-t5-base-sheldon-chat,no-changes
+ShynBui,ShynBui/comment_classification_v2,ShynBui/comment_classification,no-information
+sjrhuschlee,sjrhuschlee/deberta-v3-base-squad2-ext-v1,sjrhuschlee/deberta-v3-base-squad2,transformers-version
+stabilityai,stabilityai/stablelm-base-alpha-3b-v2,stabilityai/stablelm-base-alpha-3b,"architectures, auto-map, hidden-act, hidden-size, model-type, norm-eps, num-heads, num-hidden-layers, rotary-scaling-factor, transformers-version, vocab-size, modelpath, intermediate-size, layer-norm-eps, num-attention-heads, use-parallel-residual"
+surprisedPikachu007,surprisedPikachu007/search_summarize_v1,surprisedPikachu007/mt5-small-search-summarizer,"modelpath, architectures, d-ff, dense-act-fn, feed-forward-proj, is-gated-act, model-type, n-positions, num-decoder-layers, num-heads, num-layers, output-past, task-specific-params, vocab-size, tie-word-embeddings, tokenizer-class"
+Swarnava,Swarnava/T5_base_title_v2,Swarnava/T5_base_title,no-changes
+T-Systems-onsite,T-Systems-onsite/mt5-small-sum-de-en-v2,deutsche-telekom/mt5-small-sum-de-en-v1,"torch-dtype, transformers-version"
+tartuNLP,tartuNLP/EstBERT_NER_v2,tartuNLP/EstBERT_NER,"modelpath, classifier-dropout, id2label, label2id, position-embedding-type, torch-dtype, transformers-version, use-cache"

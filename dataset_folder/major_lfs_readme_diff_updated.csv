@@ -1,0 +1,87 @@
+Owner,main_model_name,to_compare,major_largefile,major_readme,actual_changes
+Ahmed007,Ahmed007/Copilot_for_poors_v2,Ahmed007/Copilot_for_poors,Different,Different,model name changed
+albert,albert/albert-xlarge-v1,albert/albert-xlarge-v2,Different,Different,Nothing changed
+alpcansoydas,alpcansoydas/bert-base-arabic-emotion-analysis-v2,alpcansoydas/bert-base-arabic-emotion-analysis,Different,Different,model name changed
+AmelieSchreiber,AmelieSchreiber/esm2_t6_8M_general_binding_sites_v2,AmelieSchreiber/esm2_t6_8M_general_binding_sites,Different,Different,"successor's widget text-inclusion,
+successor dataset-inclusion,
+successor language-inclusion,
+successor metrics-inclusion,
+successor librar- used-inclusion,
+succession tags-inclusion,"
+ankhamun,ankhamun/x_x-v0,ankhamun/xxxI0v_v0Ixxx,Different,Different,successor transformer inclusion
+arjan-hada,arjan-hada/esm2_t12_35M_UR50D-finetuned-rep7868aav2-v0,arjan-hada/esm2_t12_35M_UR50D-finetuned-rep7868aav2-v1,Different,Different,model name changed
+athirdpath,athirdpath/Iambe-20b-DARE-v2,athirdpath/Iambe-20b-DARE,Different,Different,Nothing changed
+austinpatrickm,austinpatrickm/finetuned_bge_embeddings_v2,austinpatrickm/finetuned-bge-embeddings,Different,Different,Nothing changed
+bedust,bedust/tinyllama-colorist-v2,bedust/tinyllama-colorist-lora,Different,Different,successor readme-inclusion
+Biomimicry-AI,Biomimicry-AI/ANIMA-Nectar-v2,Biomimicry-AI/ANIMA-Nectar-v3-GGUF,Different,Different,Nothing changed
+chathuranga-jayanath,chathuranga-jayanath/codet5-base-v1,chathuranga-jayanath/codet5-base-v2,Different,Different,model name changed
+chensyii,chensyii/my_bert_model_v2,chensyii/my_bert_model,Different,Different,successor readme-inclusion
+ClaudiaRichard,ClaudiaRichard/mbti-bert-nli-finetuned_v2,ClaudiaRichard/mbti-bert-nli-finetuned,Different,Different,model name changed
+Conrad747,Conrad747/luganda-ner-v6,Conrad747/luganda-ner-v5,Different,Different,successoor performance-update
+csarron,csarron/mobilebert-uncased-squad-v2,csarron/mobilebert-uncased-squad-v1,Different,Different,successor dataset-number increment
+csarron,csarron/mobilebert-uncased-squad-v2,csarron/mobilebert-uncased-squad-v1,Different,Different,Nothing changed
+cuadron11,cuadron11/suicide-distilbert-original-8-5-v2,cuadron11/suicide-distilbert-original-8-5,Different,Different,Nothing changed
+damerajee,damerajee/tinyllama-sft-small-v2,damerajee/Tinyllama-sft-small,Different,Different,successor used-library-inclusion
+decapoda-research,decapoda-research/Antares-11b-v2,decapoda-research/Antares-11b-v1,Different,Different,"successor dataset-name-changed,
+successor task-indication
+successor metrics-indication
+successor merged base-model-changed"
+evenicole,evenicole/google-play-sentiment-analysis_v2,evenicole/google-play-sentiment-analysis,Different,Different,Nothing changed
+Fizzarolli,Fizzarolli/sappha-2b-v1,Fizzarolli/sappha-2b-v3,Different,Different,"successor dataset-removal,
+successorlanguage-removal
+successor license-inclusion"
+Frrrrrrrrank,Frrrrrrrrank/Llama-2-7b-chat-hf-process_engineering_one_firsttwokap_v3,Frrrrrrrrank/Llama-2-7b-chat-hf-process_engineering_one_firsttwokap_v2,Different,Different,successor readme-deletion
+gangyeolkim,gangyeolkim/kobart-korean-summarizer-v2,gangyeolkim/open-llama-2-ko-7b-summarization,Different,Different,"successor pipeline-inclusion
+successor lincense-inclusion"
+genify-official,genify-official/genify-llama-2-7B-32K-Instruct-Q4-v2,genify-official/genify-llama-2-7B-32K-Instruct-Q4,Different,Different,successor no-readme
+Gnartiel,Gnartiel/multi-sbert-v2,Gnartiel/multi-sbert,Different,Different,successor language
+GRPUI,GRPUI/sgugit-model-v3,GRPUI/sgugit-model,Different,Different,successor C02-emission-changed
+Guilherme34,Guilherme34/SamanthaCode-v1,Guilherme34/SamanthaCode,Different,Different,successor no-readme
+Hejjee,Hejjee/iDonna_depression_v2,Hejjee/iDonna_depression_v1,Different,Different,successor readme-inclusion
+hoanghoavienvo,hoanghoavienvo/roberta-base-detect-cheapfake-co1-co2-v2,hoanghoavienvo/roberta-base-detect-cheapfake-co1-co2,Different,Different,Nothing changed
+iagoalves,iagoalves/sentiment-model-v2,iagoalves/sentiment-model-v3,Different,Different,successor readme-inclusion
+IkariDev,IkariDev/Athena-v2,IkariDev/Athena-v1,Different,Different,successor readme-inclusion
+intelliwork,intelliwork/Llama-2-7b-chat-hf-function-calling-v2,intelliwork/Llama-2-7b-chat-hf-function-calling-adapters-v2,Different,Different,successor readme-inclusion
+intfloat,intfloat/e5-base-v2,intfloat/e5-base,Different,Different,Nothing changed
+Ja-ck,Ja-ck/Mistral-instruct-Y24-v5,Ja-ck/Mistral-instruct-Y24-v6,Different,Different,Nothing changed
+Jairnetojp,Jairnetojp/hate-classification-distilbert-base-multilingual-cased-sentiments-student-v2,Jairnetojp/hate-classification-distilbert-base-multilingual-cased-sentiments-student,Different,Different,successor readme-inclusion
+JoaoJunior,JoaoJunior/T5_APR_java_python_v4,JoaoJunior/T5_APR_java_python_v3,Different,Different,successor readme-inclusion
+Joshua-Abok,Joshua-Abok/flan-t5-large-dialogsum_samsum_v2,Joshua-Abok/flan-t5-large-dialogsum_samsum_v1,Different,Different,successor readme-inclusion
+jsfs11,jsfs11/MixtureofMerges-MoE-v2,jsfs11/MixtureofMerges-MoE-4x7b-v3,Different,Different,successor performance-increment
+jysh1023,jysh1023/distilbert-base-cased-squad-v2,joelwigton/distilbert-base-cased-squad_v1,Different,Different,successor readme-deletion
+jysh1023,jysh1023/distilbert-base-cased-squad-v2,joelwigton/distilbert-base-cased-squad_v1,Different,Different,successor readme-deletion
+KnutJaegersberg,KnutJaegersberg/megatron-gpt2-345m-evol_instruct_v2,KnutJaegersberg/megatron-GPT-2-345m-EvolInstruct,Different,Different,successor dataset-inclusion
+krevas,krevas/LDCC-Instruct-Llama-2-ko-13B-v4,krevas/LDCC-Instruct-Llama-2-ko-13B-v4.1,Different,Different,successor language-inclusion
+lunarsylph,lunarsylph/gemmacell_v1,lunarsylph/gemmacell_v2,Different,Different,Nothing changed
+martyn,martyn/mixtral-dare-8x7b-v0,martyn/mixtral-megamerge-dare-8x7b-v1,Different,Different,successor license-changed
+meetkai,meetkai/functionary-7b-v2,meetkai/functionary-7b-v2.1,Different,Different,Nothing changed
+mjkmain,mjkmain/gpt2-imdb-pos-v2,lvwerra/gpt2-imdb-pos,Different,Different,successor readme-inclusion
+moneyforward,moneyforward/houou-instruction-7b-v2,moneyforward/houou-instruction-7b-v1,Different,Different,Nothing changed
+moriire,moriire/medical-chat-v0,moriire/phi-2-medical-chat-v0-model,Different,Different,successor readme-inclusion
+mrm8488,mrm8488/chEMBL_smiles_v1,mrm8488/chEMBL26_smiles_v2,Different,Different,Nothing changed
+nchen909,nchen909/codellm-7b-v4,nchen909/codellm-7b-v5,Different,Different,successor readme-deletion
+ncsgobubble,ncsgobubble/Llama-7B-rollercoaster_v2,ncsgobubble/Llama-7B-rollercoaster,Different,Different,Nothing changed
+netoferraz,netoferraz/distilbert-base-uncased-finetuned-pad-clf-v2,netoferraz/distilbert-base-uncased-finetuned-pad-clf-v1,Different,Different,successor readme-inclusion
+NikitaKukuzey,NikitaKukuzey/Lomonosov_small_v1,NikitaKukuzey/Lomonosov_small_v2,Different,Different,Nothing changed
+nomic-ai,nomic-ai/nomic-embed-text-v1,nomic-ai/nomic-embed-text-v1.5,Different,Different,Nothing changed
+ohwi,ohwi/japanese-stablelm-instruct-gamma-7b-dpo-uf-v0,ohwi/japanese-stablelm-instruct-gamma-7b-dpo-uf-v1,Different,Different,Nothing changed
+oshizo,oshizo/japanese-sexual-moderation-v2,oshizo/japanese-sexual-moderation,Different,Different,successor language-inclusion
+plgrm720,plgrm720/tokipona_to_eng_model_v1,plgrm720/tokipona_to_eng_model_v1.1,Different,Different,successor readme-deletion
+Prasadrao,Prasadrao/xlm-roberta-large-go-emotions-v3,Prasadrao/xlm-roberta-large-go-emotions-v2,Different,Different,successor dataset-inclusion
+qnguyen3,qnguyen3/quan-1.8b-base-v2,qnguyen3/quan-1.8b-base,Different,Different,successor base-model-changed
+recoilme,recoilme/insomnia_v1,recoilme/insomnia_v2,Different,Different,successor used-library-inclusion
+rhplus0831,rhplus0831/maid-yuzu-v1,rhplus0831/maid-yuzu-v2,Different,Different,successor base-model-changed
+rhysjones,rhysjones/phi-2-orange-v2,rhysjones/phi-2-orange,Different,Different,"successor task-inclusion
+successor datasets-inclusion
+successor metrics-inclusion 
+successor result-inclusion"
+saileshaman,saileshaman/t5-small-finetuned-dialogsum-v3,saileshaman/t5-small-finetuned-dialogsum-v2,Different,Different,successor readme-inclusion
+Shakhovak,Shakhovak/flan-t5-base-sheldon-chat-v2,Shakhovak/flan-t5-base-sheldon-chat,Different,Different,successor metrics-removed
+ShynBui,ShynBui/comment_classification_v2,ShynBui/comment_classification,Different,Different,successor base-model-changed
+sjrhuschlee,sjrhuschlee/deberta-v3-base-squad2-ext-v1,sjrhuschlee/deberta-v3-base-squad2,Different,Different,"successor dataset-increased
+successor result-changed"
+stabilityai,stabilityai/stablelm-base-alpha-3b-v2,stabilityai/stablelm-base-alpha-3b,Different,Different,successor dataset-inclusion
+surprisedPikachu007,surprisedPikachu007/search_summarize_v1,surprisedPikachu007/mt5-small-search-summarizer,Different,Different,successor readme-inclusion
+Swarnava,Swarnava/T5_base_title_v2,Swarnava/T5_base_title,Different,Different,model name changed
+T-Systems-onsite,T-Systems-onsite/mt5-small-sum-de-en-v2,deutsche-telekom/mt5-small-sum-de-en-v1,Different,Different,successor dataset-decreased
+tartuNLP,tartuNLP/EstBERT_NER_v2,tartuNLP/EstBERT_NER,Different,Different,successor base-model-changed

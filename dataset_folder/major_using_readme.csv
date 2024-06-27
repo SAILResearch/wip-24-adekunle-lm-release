@@ -1,0 +1,86 @@
+﻿Owner,main_model_name,to_compare,readme
+Ahmed007,Ahmed007/Copilot_for_poors_v2,Ahmed007/Copilot_for_poors,model name changed
+albert,albert/albert-xlarge-v1,albert/albert-xlarge-v2,Nothing changed
+alpcansoydas,alpcansoydas/bert-base-arabic-emotion-analysis-v2,alpcansoydas/bert-base-arabic-emotion-analysis,model name changed
+AmelieSchreiber,AmelieSchreiber/esm2_t6_8M_general_binding_sites_v2,AmelieSchreiber/esm2_t6_8M_general_binding_sites," widget text inclusion,
+ dataset inclusion,
+ language inclusion,
+ metrics inclusion,
+  library used inclusion,
+ tags inclusion,"
+ankhamun,ankhamun/x_x-v0,ankhamun/xxxI0v_v0Ixxx, transformer inclusion
+arjan-hada,arjan-hada/esm2_t12_35M_UR50D-finetuned-rep7868aav2-v0,arjan-hada/esm2_t12_35M_UR50D-finetuned-rep7868aav2-v1,model name changed
+athirdpath,athirdpath/Iambe-20b-DARE-v2,athirdpath/Iambe-20b-DARE,Nothing changed
+austinpatrickm,austinpatrickm/finetuned_bge_embeddings_v2,austinpatrickm/finetuned-bge-embeddings,Nothing changed
+bedust,bedust/tinyllama-colorist-v2,bedust/tinyllama-colorist-lora, readme inclusion
+Biomimicry-AI,Biomimicry-AI/ANIMA-Nectar-v2,Biomimicry-AI/ANIMA-Nectar-v3-GGUF,Nothing changed
+chathuranga-jayanath,chathuranga-jayanath/codet5-base-v1,chathuranga-jayanath/codet5-base-v2,model name changed
+chensyii,chensyii/my_bert_model_v2,chensyii/my_bert_model, readme inclusion
+ClaudiaRichard,ClaudiaRichard/mbti-bert-nli-finetuned_v2,ClaudiaRichard/mbti-bert-nli-finetuned,model name changed
+Conrad747,Conrad747/luganda-ner-v6,Conrad747/luganda-ner-v5, performance update
+csarron,csarron/mobilebert-uncased-squad-v2,csarron/mobilebert-uncased-squad-v1,Nothing changed
+cuadron11,cuadron11/suicide-distilbert-original-8-5-v2,cuadron11/suicide-distilbert-original-8-5,Nothing changed
+damerajee,damerajee/tinyllama-sft-small-v2,damerajee/Tinyllama-sft-small, used library inclusion
+decapoda-research,decapoda-research/Antares-11b-v2,decapoda-research/Antares-11b-v1," dataset name changed,
+ task indication,
+ metrics indication,
+ merged base model changed"
+evenicole,evenicole/google-play-sentiment-analysis_v2,evenicole/google-play-sentiment-analysis,Nothing changed
+Fizzarolli,Fizzarolli/sappha-2b-v1,Fizzarolli/sappha-2b-v3," dataset removal,
+language removal,
+ license inclusion"
+Frrrrrrrrank,Frrrrrrrrank/Llama-2-7b-chat-hf-process_engineering_one_firsttwokap_v3,Frrrrrrrrank/Llama-2-7b-chat-hf-process_engineering_one_firsttwokap_v2, readme deletion
+gangyeolkim,gangyeolkim/kobart-korean-summarizer-v2,gangyeolkim/open-llama-2-ko-7b-summarization,"pipeline inclusion,
+license inclusion"
+genify-official,genify-official/genify-llama-2-7B-32K-Instruct-Q4-v2,genify-official/genify-llama-2-7B-32K-Instruct-Q4, no readme
+Gnartiel,Gnartiel/multi-sbert-v2,Gnartiel/multi-sbert, language inclusion
+GRPUI,GRPUI/sgugit-model-v3,GRPUI/sgugit-model, C02 emission increased
+Guilherme34,Guilherme34/SamanthaCode-v1,Guilherme34/SamanthaCode, no readme
+Hejjee,Hejjee/iDonna_depression_v2,Hejjee/iDonna_depression_v1, readme inclusion
+hoanghoavienvo,hoanghoavienvo/roberta-base-detect-cheapfake-co1-co2-v2,hoanghoavienvo/roberta-base-detect-cheapfake-co1-co2,Nothing changed
+iagoalves,iagoalves/sentiment-model-v2,iagoalves/sentiment-model-v3, readme inclusion
+IkariDev,IkariDev/Athena-v2,IkariDev/Athena-v1, readme inclusion
+intelliwork,intelliwork/Llama-2-7b-chat-hf-function-calling-v2,intelliwork/Llama-2-7b-chat-hf-function-calling-adapters-v2, readme inclusion
+intfloat,intfloat/e5-base-v2,intfloat/e5-base,Nothing changed
+Ja-ck,Ja-ck/Mistral-instruct-Y24-v5,Ja-ck/Mistral-instruct-Y24-v6,Nothing changed
+Jairnetojp,Jairnetojp/hate-classification-distilbert-base-multilingual-cased-sentiments-student-v2,Jairnetojp/hate-classification-distilbert-base-multilingual-cased-sentiments-student, readme inclusion
+JoaoJunior,JoaoJunior/T5_APR_java_python_v4,JoaoJunior/T5_APR_java_python_v3, readme inclusion
+Joshua-Abok,Joshua-Abok/flan-t5-large-dialogsum_samsum_v2,Joshua-Abok/flan-t5-large-dialogsum_samsum_v1, readme inclusion
+jsfs11,jsfs11/MixtureofMerges-MoE-v2,jsfs11/MixtureofMerges-MoE-4x7b-v3, performance increment
+KnutJaegersberg,KnutJaegersberg/megatron-gpt2-345m-evol_instruct_v2,KnutJaegersberg/megatron-GPT-2-345m-EvolInstruct, readme deletion
+krevas,krevas/LDCC-Instruct-Llama-2-ko-13B-v4,krevas/LDCC-Instruct-Llama-2-ko-13B-v4.1, readme deletion
+martyn,martyn/mixtral-dare-8x7b-v0,martyn/mixtral-megamerge-dare-8x7b-v1, dataset inclusion
+MAsad789565,MAsad789565/GPT2_Finetuned_v1,MAsad789565/GPT2_Finetuned, language inclusion
+meetkai,meetkai/functionary-7b-v2,meetkai/functionary-7b-v2.1,Nothing changed
+mjkmain,mjkmain/gpt2-imdb-pos-v2,lvwerra/gpt2-imdb-pos, license changed
+moneyforward,moneyforward/houou-instruction-7b-v2,moneyforward/houou-instruction-7b-v1,Nothing changed
+moriire,moriire/medical-chat-v0,moriire/phi-2-medical-chat-v0-model, readme inclusion
+mrm8488,mrm8488/chEMBL_smiles_v1,mrm8488/chEMBL26_smiles_v2,Nothing changed
+NbAiLab,NbAiLab/nb-gpt-j-6B-v2,NbAiLab/nb-gpt-j-6B, readme inclusion
+nchen909,nchen909/codellm-7b-v4,nchen909/codellm-7b-v5,Nothing changed
+ncsgobubble,ncsgobubble/Llama-7B-rollercoaster_v2,ncsgobubble/Llama-7B-rollercoaster, readme deletion
+netoferraz,netoferraz/distilbert-base-uncased-finetuned-pad-clf-v2,netoferraz/distilbert-base-uncased-finetuned-pad-clf-v1,Nothing changed
+NikitaKukuzey,NikitaKukuzey/Lomonosov_small_v1,NikitaKukuzey/Lomonosov_small_v2, readme inclusion
+nomic-ai,nomic-ai/nomic-embed-text-v1,nomic-ai/nomic-embed-text-v1.5,Nothing changed
+ohwi,ohwi/japanese-stablelm-instruct-gamma-7b-dpo-uf-v0,ohwi/japanese-stablelm-instruct-gamma-7b-dpo-uf-v1,Nothing changed
+Oillim,Oillim/MiniLM-L6-v2,Oillim/sts_all-MiniLM-L6-v2,Nothing changed
+oshizo,oshizo/japanese-sexual-moderation-v2,oshizo/japanese-sexual-moderation, language inclusion
+plgrm720,plgrm720/tokipona_to_eng_model_v1,plgrm720/tokipona_to_eng_model_v1.1, readme deletion
+Prasadrao,Prasadrao/xlm-roberta-large-go-emotions-v3,Prasadrao/xlm-roberta-large-go-emotions-v2, dataset inclusion
+qnguyen3,qnguyen3/quan-1.8b-base-v2,qnguyen3/quan-1.8b-base, base model changed
+recoilme,recoilme/insomnia_v1,recoilme/insomnia_v2, used library inclusion
+rhplus0831,rhplus0831/maid-yuzu-v1,rhplus0831/maid-yuzu-v2, base model changed
+rhysjones,rhysjones/phi-2-orange-v2,rhysjones/phi-2-orange,"task inclusion,
+dataset inclusion,
+metrics inclusion,
+result inclusion"
+saileshaman,saileshaman/t5-small-finetuned-dialogsum-v3,saileshaman/t5-small-finetuned-dialogsum-v2,readme inclusion
+Shakhovak,Shakhovak/flan-t5-base-sheldon-chat-v2,Shakhovak/flan-t5-base-sheldon-chat, metrics removed
+ShynBui,ShynBui/comment_classification_v2,ShynBui/comment_classification, base model changed
+sjrhuschlee,sjrhuschlee/deberta-v3-base-squad2-ext-v1,sjrhuschlee/deberta-v3-base-squad2," dataset increased,
+ result changed"
+stabilityai,stabilityai/stablelm-base-alpha-3b-v2,stabilityai/stablelm-base-alpha-3b, dataset inclusion
+surprisedPikachu007,surprisedPikachu007/search_summarize_v1,surprisedPikachu007/mt5-small-search-summarizer, readme inclusion
+Swarnava,Swarnava/T5_base_title_v2,Swarnava/T5_base_title,model name changed
+T-Systems-onsite,T-Systems-onsite/mt5-small-sum-de-en-v2,deutsche-telekom/mt5-small-sum-de-en-v1, dataset decreased
+tartuNLP,tartuNLP/EstBERT_NER_v2,tartuNLP/EstBERT_NER, base model changed

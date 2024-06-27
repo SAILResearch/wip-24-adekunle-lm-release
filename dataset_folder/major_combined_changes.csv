@@ -1,0 +1,170 @@
+﻿Owner,main_model_name,to_compare,major_largefile,card_changed,modelcard,readme,configfile,modelcard_abstract
+Ahmed007,Ahmed007/Copilot_for_poors_v2,Ahmed007/Copilot_for_poors,Different,Different,"successor training-parameters-increased,
+successor training-result-improved",model name changed,_name_or_path,"increased  training-parameters,
+ performance improvement"
+albert,albert/albert-xlarge-v1,albert/albert-xlarge-v2,Different,Different,succession performance-increase,Nothing changed,"attention_probs_dropout_prob, hidden_act, hidden_dropout_prob", performance improvement
+alpcansoydas,alpcansoydas/bert-base-arabic-emotion-analysis-v2,alpcansoydas/bert-base-arabic-emotion-analysis,Different,Different,"succession performance-increase,
+successor dataset-version increase,
+successor transformer-version increase,
+successor tokenizer-version increase,",model name changed,transformers_version," performance improvement,
+ dataset-version increase,
+ transformer-version increase,
+ tokenizer-version increase,"
+AmelieSchreiber,AmelieSchreiber/esm2_t6_8M_general_binding_sites_v2,AmelieSchreiber/esm2_t6_8M_general_binding_sites,Different,Different,"succession performance-increase,
+succession hyper-perameter-releases","successor's widget text-inclusion,
+successor dataset-inclusion,
+successor language-inclusion,
+successor metrics-inclusion,
+successor librar- used-inclusion,
+succession tags-inclusion,",no-changes," performance-increase,
+ hyper-perameter-releases"
+ankhamun,ankhamun/x_x-v0,ankhamun/xxxI0v_v0Ixxx,Different,Different,predecessor no-modelcard,successor transformer inclusion,"_name_or_path, sliding_window, transformers_version, use_cache",predecessor no-modelcard
+arjan-hada,arjan-hada/esm2_t12_35M_UR50D-finetuned-rep7868aav2-v0,arjan-hada/esm2_t12_35M_UR50D-finetuned-rep7868aav2-v1,Different,Different,"successor training-batchsize-increased,
+successir evaluation-batchsize-increased,
+successor training-result-improved,
+successor dataset-version-increased,
+successor tokenizer-version-increased",model name changed,no-changes," training-batchsize-increased,
+successir evaluation-batchsize-increased,
+ training-result-improved,
+ dataset-version-increased,
+ tokenizer-version-increased"
+athirdpath,athirdpath/Iambe-20b-DARE-v2,athirdpath/Iambe-20b-DARE,Different,Different,successor different-merged-base-model,Nothing changed,"_name_or_path, use_cache", different-merged-base-model
+austinpatrickm,austinpatrickm/finetuned_bge_embeddings_v2,austinpatrickm/finetuned-bge-embeddings,Different,Different,successor normalized-layer-addition,Nothing changed,transformers_version, normalized-layer-addition
+bedust,bedust/tinyllama-colorist-v2,bedust/tinyllama-colorist-lora,Different,Different,successor no-modelcard,successor readme-inclusion,no-information, no-modelcard
+Biomimicry-AI,Biomimicry-AI/ANIMA-Nectar-v2,Biomimicry-AI/ANIMA-Nectar-v3-GGUF,Different,Different,"successor file-format-changed,
+successor license-inclusion",Nothing changed,no-information," file-format-changed,
+ license-inclusion"
+chathuranga-jayanath,chathuranga-jayanath/codet5-base-v1,chathuranga-jayanath/codet5-base-v2,Different,Different,"succession performance-increase,
+successor train-batch-size-decreased,
+successor evaluation-batch-size-decreased",model name changed,no-changes," performance-increase,
+ train-batch-size-decreased,
+ evaluation-batch-size-decreased"
+chensyii,chensyii/my_bert_model_v2,chensyii/my_bert_model,Different,Different,successor modelcard-inclusion,successor readme-inclusion,transformers_version, modelcard-inclusion
+ClaudiaRichard,ClaudiaRichard/mbti-bert-nli-finetuned_v2,ClaudiaRichard/mbti-bert-nli-finetuned,Different,Different,no traces of changes,model name changed,no-changes,no traces of changes
+Conrad747,Conrad747/luganda-ner-v6,Conrad747/luganda-ner-v5,Different,Different,"successor different-trained-variant,
+successor poor-performance,
+successor higher-version-transformer,
+successor higher-version-dataset,
+successor higher-version-tokenizer",successoor performance-update,"_name_or_path, hidden_size, intermediate_size, num_attention_heads, num_hidden_layers, transformers_version, adapters, gradient_checkpointing"," different-trained-variant,
+ poor-performance,
+ higher-version-transformer,
+ higher-version-dataset,
+ higher-version-tokenizer"
+csarron,csarron/mobilebert-uncased-squad-v2,csarron/mobilebert-uncased-squad-v1,Different,Different,no traces of changes,Nothing changed,no-changes,no traces of changes
+cuadron11,cuadron11/suicide-distilbert-original-8-5-v2,cuadron11/suicide-distilbert-original-8-5,Different,Different,successor high-performance,Nothing changed,no-changes, high-performance
+damerajee,damerajee/tinyllama-sft-small-v2,damerajee/Tinyllama-sft-small,Different,Different,no traces of changes,successor used-library-inclusion,no-information,no traces of changes
+decapoda-research,decapoda-research/Antares-11b-v2,decapoda-research/Antares-11b-v1,Different,Different,predecessor deprecated,"successor dataset-name-changed,
+successor task-indication
+successor metrics-indication
+successor merged base-model-changed","_name_or_path, transformers_version",predecessor deprecated
+evenicole,evenicole/google-play-sentiment-analysis_v2,evenicole/google-play-sentiment-analysis,Different,Different,successor high-performance,Nothing changed,no-changes, high-performance
+Fizzarolli,Fizzarolli/sappha-2b-v1,Fizzarolli/sappha-2b-v3,Different,Different,successor dataset-changed,"successor dataset-removal,
+successorlanguage-removal
+successor license-inclusion","_name_or_path, torch_dtype, transformers_version, unsloth_version, hidden_activation", dataset-changed
+Frrrrrrrrank,Frrrrrrrrank/Llama-2-7b-chat-hf-process_engineering_one_firsttwokap_v3,Frrrrrrrrank/Llama-2-7b-chat-hf-process_engineering_one_firsttwokap_v2,Different,Different,successor no-modelcard,successor readme-deletion,no-information, no-modelcard
+gangyeolkim,gangyeolkim/kobart-korean-summarizer-v2,gangyeolkim/open-llama-2-ko-7b-summarization,Different,Different,successor basemodel-changed,"successor pipeline-inclusion
+successor lincense-inclusion","_name_or_path, activation_dropout, activation_function, add_bias_logits, add_final_layer_norm, architectures, author, classif_dropout, classifier_dropout, d_model, decoder_attention_heads, decoder_ffn_dim, decoder_layerdrop, decoder_layers, decoder_start_token_id, do_blenderbot_90_layernorm, dropout, early_stopping, encoder_attention_heads, encoder_ffn_dim, encoder_layerdrop, encoder_layers, eos_token_id, extra_pos_embeddings, force_bos_token_to_be_generated, forced_eos_token_id, gradient_checkpointing, id2label, init_std, is_encoder_decoder, kobart_version, label2id, length_penalty, max_length, max_position_embeddings, min_length, model_type, normalize_before, normalize_embedding, num_hidden_layers, pad_token_id, scale_embedding, static_position_embeddings, tokenizer_class, transformers_version, vocab_size, attention_bias, hidden_act, hidden_size, initializer_range, intermediate_size, num_attention_heads, num_key_value_heads, pretraining_tp, rms_norm_eps, rope_scaling, rope_theta, tie_word_embeddings", basemodel-changed
+genify-official,genify-official/genify-llama-2-7B-32K-Instruct-Q4-v2,genify-official/genify-llama-2-7B-32K-Instruct-Q4,Different,Different,successor modelcard-inclusion,successor no-readme,"attention_bias, attention_dropout, rope_theta, transformers_version", modelcard-inclusion
+Gnartiel,Gnartiel/multi-sbert-v2,Gnartiel/multi-sbert,Different,Different,no traces of changes,successor language,transformers_version,no traces of changes
+GRPUI,GRPUI/sgugit-model-v3,GRPUI/sgugit-model,Different,Different,"successor model-id-changed,
+successor CO2-emission-decreased,
+succession validation-metrics-increased",successor C02-emission-changed,no-information," model-id-changed,
+ CO2-emission-decreased,
+ validation-metrics-increased"
+Guilherme34,Guilherme34/SamanthaCode-v1,Guilherme34/SamanthaCode,Different,Different,successor no-modelcard,successor no-readme,no-information, no-modelcard
+Hejjee,Hejjee/iDonna_depression_v2,Hejjee/iDonna_depression_v1,Different,Different,successor modelcard-inclusion,successor readme-inclusion,no-information, modelcard-inclusion
+hoanghoavienvo,hoanghoavienvo/roberta-base-detect-cheapfake-co1-co2-v2,hoanghoavienvo/roberta-base-detect-cheapfake-co1-co2,Different,Different,successor low-performance ,Nothing changed,no-changes, low-performance 
+iagoalves,iagoalves/sentiment-model-v2,iagoalves/sentiment-model-v3,Different,Different,no traces of changes,successor readme-inclusion,no-information,no traces of changes
+IkariDev,IkariDev/Athena-v2,IkariDev/Athena-v1,Different,Different,successor multiple-merge-basemodel,successor readme-inclusion,"_name_or_path, rope_theta, torch_dtype, transformers_version", multiple-merge-basemodel
+intelliwork,intelliwork/Llama-2-7b-chat-hf-function-calling-v2,intelliwork/Llama-2-7b-chat-hf-function-calling-adapters-v2,Different,Different,successor modelcard-inclusion,successor readme-inclusion,no-information, modelcard-inclusion
+intfloat,intfloat/e5-base-v2,intfloat/e5-base,Different,Different,no traces of changes,Nothing changed,transformers_version,no traces of changes
+Ja-ck,Ja-ck/Mistral-instruct-Y24-v5,Ja-ck/Mistral-instruct-Y24-v6,Different,Different,successor no-modelcard,Nothing changed,"_name_or_path, eos_token_id, vocab_size", no-modelcard
+Jairnetojp,Jairnetojp/hate-classification-distilbert-base-multilingual-cased-sentiments-student-v2,Jairnetojp/hate-classification-distilbert-base-multilingual-cased-sentiments-student,Different,Different,successor modelcard-inclusion,successor readme-inclusion,"_name_or_path, transformers_version", modelcard-inclusion
+JoaoJunior,JoaoJunior/T5_APR_java_python_v4,JoaoJunior/T5_APR_java_python_v3,Different,Different,successor modelcard-inclusion,successor readme-inclusion,no-changes, modelcard-inclusion
+Joshua-Abok,Joshua-Abok/flan-t5-large-dialogsum_samsum_v2,Joshua-Abok/flan-t5-large-dialogsum_samsum_v1,Different,Different,successor modelcard-inclusion,successor readme-inclusion,no-information, modelcard-inclusion
+jsfs11,jsfs11/MixtureofMerges-MoE-v2,jsfs11/MixtureofMerges-MoE-4x7b-v3,Different,Different,successor high-performance,successor performance-increment,"_name_or_path, torch_dtype", high-performance
+KnutJaegersberg,KnutJaegersberg/megatron-gpt2-345m-evol_instruct_v2,KnutJaegersberg/megatron-GPT-2-345m-EvolInstruct,Different,Different,no traces of changes,successor readme-deletion,"_name_or_path, transformers_version, use_cache",no traces of changes
+krevas,krevas/LDCC-Instruct-Llama-2-ko-13B-v4,krevas/LDCC-Instruct-Llama-2-ko-13B-v4.1,Different,Different,successor modelcard-empty,successor readme-deletion,no-changes, modelcard-empty
+martyn,martyn/mixtral-dare-8x7b-v0,martyn/mixtral-megamerge-dare-8x7b-v1,Different,Different,successor merge-basemodel-increase,successor dataset-inclusion,"_name_or_path, output_router_logits, sliding_window, transformers_version, use_cache", merge-basemodel-increase
+MAsad789565,MAsad789565/GPT2_Finetuned_v1,MAsad789565/GPT2_Finetuned,Different,Different,successor modelcard-deleted,successor language-inclusion,no-information, modelcard-deleted
+meetkai,meetkai/functionary-7b-v2,meetkai/functionary-7b-v2.1,Different,Different,no traces of changes,Nothing changed,"_name_or_path, sliding_window, transformers_version",no traces of changes
+mjkmain,mjkmain/gpt2-imdb-pos-v2,lvwerra/gpt2-imdb-pos,Different,Different,successor modelcard-deleted,successor license-changed,"_name_or_path, architectures, n_inner, reorder_and_upcast_attn, scale_attn_by_inverse_layer_idx, scale_attn_weights, torch_dtype, transformers_version, use_cache, _num_labels, id2label, label2id", modelcard-deleted
+moneyforward,moneyforward/houou-instruction-7b-v2,moneyforward/houou-instruction-7b-v1,Different,Different,"successor instruction-dataset-increase,
+successor basemodel-comparison-changed",Nothing changed,no-information," instruction-dataset-increase,
+ basemodel-comparison-changed"
+moriire,moriire/medical-chat-v0,moriire/phi-2-medical-chat-v0-model,Different,Different,successor modelcard-deleted,successor readme-inclusion,"_name_or_path, architectures, attention_bias, bos_token_id, eos_token_id, hidden_act, hidden_size, intermediate_size, model_type, num_hidden_layers, num_key_value_heads, pretraining_tp, rms_norm_eps, transformers_version, vocab_size, attention_dropout, auto_map, embd_pdrop, layer_norm_eps, partial_rotary_factor, qk_layernorm, resid_pdrop", modelcard-deleted
+mrm8488,mrm8488/chEMBL_smiles_v1,mrm8488/chEMBL26_smiles_v2,Different,Different,successor modelcard-deleted,Nothing changed,"attention_probs_dropout_prob, vocab_size", modelcard-deleted
+NbAiLab,NbAiLab/nb-gpt-j-6B-v2,NbAiLab/nb-gpt-j-6B,Different,Different,successor no-modelcard,successor readme-inclusion,no-information, no-modelcard
+nchen909,nchen909/codellm-7b-v4,nchen909/codellm-7b-v5,Different,Different,successor modelcard-deleted,Nothing changed,"_name_or_path, transformers_version, attention_dropout", modelcard-deleted
+ncsgobubble,ncsgobubble/Llama-7B-rollercoaster_v2,ncsgobubble/Llama-7B-rollercoaster,Different,Different,no traces of changes,successor readme-deletion,no-information,no traces of changes
+netoferraz,netoferraz/distilbert-base-uncased-finetuned-pad-clf-v2,netoferraz/distilbert-base-uncased-finetuned-pad-clf-v1,Different,Different,predecessor no-modelcard,Nothing changed,no-information,predecessor no-modelcard
+NikitaKukuzey,NikitaKukuzey/Lomonosov_small_v1,NikitaKukuzey/Lomonosov_small_v2,Different,Different,predecessor no-modelcard,successor readme-inclusion,"_name_or_path, architectures, d_ff, dense_act_fn, feed_forward_proj, is_gated_act, model_type, n_positions, num_decoder_layers, num_heads, num_layers, output_past, task_specific_params, vocab_size, tie_word_embeddings, tokenizer_class",predecessor no-modelcard
+nomic-ai,nomic-ai/nomic-embed-text-v1,nomic-ai/nomic-embed-text-v1.5,Different,Different,successor embedding-size-reduced,Nothing changed,"rotary_scaling_factor, summary_first_dropout, transformers_version, max_trained_positions", embedding-size-reduced
+ohwi,ohwi/japanese-stablelm-instruct-gamma-7b-dpo-uf-v0,ohwi/japanese-stablelm-instruct-gamma-7b-dpo-uf-v1,Different,Different,no traces of changes,Nothing changed,_name_or_path,no traces of changes
+Oillim,Oillim/MiniLM-L6-v2,Oillim/sts_all-MiniLM-L6-v2,Different,Different,predecessor no-modelcard,Nothing changed,no-information,predecessor no-modelcard
+oshizo,oshizo/japanese-sexual-moderation-v2,oshizo/japanese-sexual-moderation,Different,Different,no traces of changes,successor language-inclusion,"id2label, label2id, problem_type, transformers_version",no traces of changes
+plgrm720,plgrm720/tokipona_to_eng_model_v1,plgrm720/tokipona_to_eng_model_v1.1,Different,Different,successor no-modelcard,successor readme-deletion,no-changes, no-modelcard
+Prasadrao,Prasadrao/xlm-roberta-large-go-emotions-v3,Prasadrao/xlm-roberta-large-go-emotions-v2,Different,Different,"successor training-hyperparameters-decreased,
+sucessor precission-increased",successor dataset-inclusion,_name_or_path," training-hyperparameters-decreased,
+sucessor precission-increased"
+qnguyen3,qnguyen3/quan-1.8b-base-v2,qnguyen3/quan-1.8b-base,Different,Different,"successor trained-variant,
+successor higher-dataset-version,
+successor higher-tokenizer-version,
+successor higher-transformer-version",successor base-model-changed,"_name_or_path, attention_dropout, bos_token_id, transformers_version"," trained-variant,
+ higher-dataset-version,
+ higher-tokenizer-version,
+ higher-transformer-version"
+recoilme,recoilme/insomnia_v1,recoilme/insomnia_v2,Different,Different,no traces of changes,successor used-library-inclusion,_name_or_path,no traces of changes
+rhplus0831,rhplus0831/maid-yuzu-v1,rhplus0831/maid-yuzu-v2,Different,Different,"successor merge-basemodel-decreased,
+successor merged-method-changed,",successor base-model-changed,_name_or_path," merge-basemodel-decreased,
+ merged-method-changed,"
+rhysjones,rhysjones/phi-2-orange-v2,rhysjones/phi-2-orange,Different,Different,no traces of changes,"successor task-inclusion
+successor datasets-inclusion
+successor metrics-inclusion 
+successor result-inclusion","_name_or_path, attention_dropout, bos_token_id, eos_token_id, hidden_act, hidden_size, intermediate_size, layer_norm_eps, max_position_embeddings, model_type, num_attention_heads, num_hidden_layers, num_key_value_heads, partial_rotary_factor, qk_layernorm, rope_scaling, rope_theta, torch_dtype, transformers_version, use_cache, activation_function, attn_pdrop, auto_map, flash_attn, flash_rotary, fused_dense, img_processor, layer_norm_epsilon, n_embd, n_head, n_head_kv, n_inner, n_layer, n_positions, rotary_dim",no traces of changes
+saileshaman,saileshaman/t5-small-finetuned-dialogsum-v3,saileshaman/t5-small-finetuned-dialogsum-v2,Different,Different,"successor performance-increase,
+successor epoch-increased,
+successor lower-transformer-version,
+successor lower-dataset-version,
+successor lower-tokenizer-version",successor readme-inclusion,no-information," performance-increase,
+ epoch-increased,
+ lower-transformer-version,
+ lower-dataset-version,
+ lower-tokenizer-version"
+Shakhovak,Shakhovak/flan-t5-base-sheldon-chat-v2,Shakhovak/flan-t5-base-sheldon-chat,Different,Different,"successor performance-increase,
+successor epoch-increased,
+successor lower-dataset-version,",successor metrics-removed,no-changes," performance-increase,
+ epoch-increased,
+ lower-dataset-version,"
+ShynBui,ShynBui/comment_classification_v2,ShynBui/comment_classification,Different,Different,"successor performance-increase,
+successor higher-transformer-version",successor base-model-changed,no-information," performance-increase,
+ higher-transformer-version"
+sjrhuschlee,sjrhuschlee/deberta-v3-base-squad2-ext-v1,sjrhuschlee/deberta-v3-base-squad2,Different,Different,"successor dataset-increase,
+successor train-bash-size-increase,
+successor epoch-decrease,
+successor higher-transformer-version","successor dataset-increased
+successor result-changed",transformers_version," dataset-increase,
+ train-bash-size-increase,
+ epoch-decrease,
+ higher-transformer-version"
+stabilityai,stabilityai/stablelm-base-alpha-3b-v2,stabilityai/stablelm-base-alpha-3b,Different,Different,"successor hidden-size-dereased,
+successor layer-size decreased,
+successor token-size-decreased",successor dataset-inclusion,"architectures, auto_map, hidden_act, hidden_size, model_type, norm_eps, num_heads, num_hidden_layers, rotary_scaling_factor, transformers_version, vocab_size, _name_or_path, intermediate_size, layer_norm_eps, num_attention_heads, use_parallel_residual"," hidden-size-dereased,
+ layer-size decreased,
+ token-size-decreased"
+surprisedPikachu007,surprisedPikachu007/search_summarize_v1,surprisedPikachu007/mt5-small-search-summarizer,Different,Different,predecessor no-modelcard,successor readme-inclusion,"_name_or_path, architectures, d_ff, dense_act_fn, feed_forward_proj, is_gated_act, model_type, n_positions, num_decoder_layers, num_heads, num_layers, output_past, task_specific_params, vocab_size, tie_word_embeddings, tokenizer_class",predecessor no-modelcard
+Swarnava,Swarnava/T5_base_title_v2,Swarnava/T5_base_title,Different,Different,"successor epoch-decrease,
+successor performance-reduced,
+successor lower-dataset-version,
+successor lower-tokenizer-version",model name changed,no-changes," epoch-decrease,
+ performance-reduced,
+ lower-dataset-version,
+ lower-tokenizer-version"
+T-Systems-onsite,T-Systems-onsite/mt5-small-sum-de-en-v2,deutsche-telekom/mt5-small-sum-de-en-v1,Different,Different,"successor dataset-increase,
+successor train-bash-size-increase,
+successor epoch-decrease,
+successor higher-transformer-version",successor dataset-decreased,"torch_dtype, transformers_version"," dataset-increase,
+ train-bash-size-increase,
+ epoch-decrease,
+ higher-transformer-version"
+tartuNLP,tartuNLP/EstBERT_NER_v2,tartuNLP/EstBERT_NER,Different,Different,successor result-hyperparameters-updated,successor base-model-changed,"_name_or_path, classifier_dropout, id2label, label2id, position_embedding_type, torch_dtype, transformers_version, use_cache", result-hyperparameters-updated

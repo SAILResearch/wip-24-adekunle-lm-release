@@ -1,0 +1,56 @@
+﻿Owner,main_model_name,to_compare,largefile_changed,card_changed,modelcard,readme,configfile
+922-CA,922-CA/LLilmonix3b-v0.3,922-CA/LLilmonix3b-v0.4a,1,1,successor hyperparameters-increased,no traces of change,_name_or_path
+AdityaXPV,AdityaXPV/llama-2-7b-law-sage-v0.2,AdityaXPV/llama-2-7b-law-sage-v0.1,1,1,successor card-removed,successor readme-inclusion,"_name_or_path, attention_bias, attention_dropout, rope_theta, transformers_version, pad_token_id"
+Ahmed107,Ahmed107/nllb200-ar-en_v11.1,Ahmed107/nllb200-ar-en_v11,1,1,successor card-removed,no traces of change,no-changes
+alexredna,alexredna/Tukan-1.1B-Chat-v0.6,alexredna/Tukan-1.1B-Chat-v0.2,1,1,successor card-removed,successor basemodel-changed,_name_or_path
+arentz,arentz/spambutcher_mistral_7b-v0.2,arentz/spambutcher_mistral_7b-v0.1,1,1,no traces of change,successor readme-removed,"_name_or_path, torch_dtype, quantization_config"
+ayeshgk,ayeshgk/codet5-small-ft-v10.1,ayeshgk/codet5-small-ft-v10,1,1,"successor performance-improvement,
+successor Gen-Length-increased,
+successor epoch-increase",successor transformer-indication,_name_or_path
+cookinai,cookinai/Blitz-v0.1,cookinai/Blitz-v0.2,1,1,successor epoch-increase,successor name-changes,no-changes
+davzoku,davzoku/cria-llama2-7b-v1.3,davzoku/cria-llama2-7b-v1.2,1,1,successor card-inclusion,successor transformer-indication,"_name_or_path, rope_theta, sliding_window, torch_dtype, transformers_version, pad_token_id, unsloth_version"
+Deepnoid,Deepnoid/deep-solar-v3.0,Deepnoid/deep-solar-Rev-v3.0.4,1,1,no traces of change,successor readme-inclusion,"_name_or_path, max_position_embeddings"
+EDM25,EDM25/luau-assistant-v0.1,EDM25/luau-assistant-lora,1,1,successor card-removed,no traces of change,_name_or_path
+eriksu,eriksu/heiko-7b-v0.1,eriksu/heiko-7b-v0.2.gguf,1,1,successor card-removed,successor no-readme,no-information
+GodsonNtungi,GodsonNtungi/SwahiliInstruct-v0.2,GodsonNtungi/Swahili-Instruct-V2-3,1,1,"successor finetuned-variant-inclusion,
+successor lincense-inclusion",successor readme-removed,no-information
+Hvsq,Hvsq/Babylona_v0.1,Hvsq/Babylona_v0.1b,1,1,no traces of change,"successor license-inclusion,
+successor basemodel-inclusion","_name_or_path, quantization_config, transformers_version, pad_token_id, unsloth_version"
+jondurbin,jondurbin/bagel-dpo-7b-v0.4,jondurbin/bagel-dpo-7b-v0.5,1,1,successor finetuned-variant-changed,no traces of change,"_name_or_path, rope_theta, torch_dtype, transformers_version"
+Josephgflowers,Josephgflowers/TinyLlama-3T-Cinder-v1.3,Josephgflowers/TinyLlama-3T-Cinder-v1.2,1,1,no adequate information,no traces of change,"_name_or_path, transformers_version, vocab_size"
+kim-sha,kim-sha/sql-sodabot-v1.0,kim-sha/sql-sodabot-v1.1,1,1,successor card-removed,no traces of change,"_name_or_path, torch_dtype, transformers_version, unsloth_version"
+kmok1,kmok1/cs_m2m_0.01_50_v0.2,kmok1/cs_m2m_0.01_50_v0.1,1,1,successor card-inclusion,successor readme-removed,"_name_or_path, d_ff, d_model, gradient_checkpointing, id2label, label2id, num_decoder_layers, num_heads, num_layers, task_specific_params"
+LDCC,LDCC/LDCC-Instruct-Llama-2-ko-13B-v1.5,LDCC/LDCC-Instruct-Llama-2-ko-13B-v1.4,1,1,successor card-removed,successor readme-inclusion,no-information
+Locutusque,Locutusque/TinyMistral-248M-v2.5,Locutusque/TinyMistral-248M-v2,1,1,successor merged-basemodel-increased,successor language-removed,no-information
+meetkai,meetkai/functionary-7b-v2.1,meetkai/functionary-7b-v2,1,1,no traces of change,"successor dataset-increased,
+successor metrics-inclusion","_name_or_path, torch_dtype"
+migtissera,migtissera/Tess-34B-v1.4,migtissera/Tess-34B-v1.5b,1,1,no traces of change,no traces of change,"_name_or_path, sliding_window, transformers_version"
+mncai,mncai/agiin-11.1B-v0.1,mncai/agiin-11.1B-v0.0,1,1,no traces of change,no traces of change,"_name_or_path, torch_dtype, transformers_version, attention_dropout"
+mogaio,mogaio/TinyLlama-con-v0.2,mogaio/TinyLlama-con-v0.1,1,1,successor card-removed,successor dataset-update,"architectures, sliding_window"
+muzammil-eds,muzammil-eds/tinyllama-3T-128k-JsonExtract-v1.0,muzammil-eds/tinyllama-3T-128k-JsonExtract-v0.6,1,1,"successor finetuned-variant-inclusion,
+successor lincense-inclusion",successor readme-removed,transformers_version
+mzbac,mzbac/llama2-13b-grammar-corrector-v1.1,mzbac/llama2-13b-grammar-corrector-v1.2,1,1,successor card-inclusion,"successor language-updated
+successor transformer-updated
+successor generation—inference-updated
+successor basemodel-updated",no-information
+nitky,nitky/Superswallow-70b-v0.3,nitky/Superswallow-70b-v0.2,1,1,no traces of change,no traces of change,"_name_or_path, torch_dtype"
+nomic-ai,nomic-ai/nomic-embed-text-v1.5,nomic-ai/nomic-embed-text-v1,1,1,no traces of change,no traces of change,_name_or_path
+phanerozoic,phanerozoic/Mistral-Pirate-7b-v0.3,phanerozoic/MistralPirate-7b-v1,1,1,no traces of change,no traces of change,"max_trained_positions, rotary_scaling_factor, summary_first_dropout, transformers_version"
+RJuro,RJuro/kanelsnegl-v0.1,RJuro/kanelsnegl-v0.2,1,1,no traces of change,"successor license-changed
+successor language-increased",no-information
+rwitz2,rwitz2/go-bruins-v2.1,rwitz2/go-bruins-v2.1.1,1,1,successor card-information-removed,successor language-updated,"_name_or_path, attention_dropout, rope_theta, sliding_window, transformers_version"
+saltlux,saltlux/luxia-21.4b-alignment-v1.0,saltlux/luxia-21.4b-alignment-v1.1,1,1,no adequate information,no traces of change,"_name_or_path, torch_dtype"
+Sam2x,Sam2x/Mistral_OpenArabic_v0.2,Sam2x/OpenArabic_v0.3,1,1,successor card-removed,"successor license-removed,
+successor language-removed,
+successor pipelinetag-removed","_name_or_path, torch_dtype, transformers_version"
+Tamnemtf,Tamnemtf/Ae-calem-mistral-7b-v0.1,Tamnemtf/Ae-calem-mistral-7b-v0.2,1,1,no traces of change,no traces of change,_name_or_path
+TinyLlama,TinyLlama/TinyLlama-1.1B-Chat-v1.0,TinyLlama/TinyLlama-1.1B-Chat-v0.6,1,1,no traces of change,successor readme-removed,"_name_or_path, torch_dtype, transformers_version, pad_token_id, unsloth_version"
+unaidedelf87777,unaidedelf87777/wizard-mistral-v0.1,unaidedelf87777/wizard-mistral-v1-ep2,1,1,successor card-removed,successor license-changed,_name_or_path
+Undi95,Undi95/Mistral-11B-Airoboros-v0.1,Undi95/Mistral-11B-Airoboros-RP-v1,1,1,successor training-model-increased,"successor dataset-increased,
+successor widget-inclusion","use_cache, _name_or_path"
+vaicai,vaicai/kaifa-support-chat-v7.3,vaicai/kaifa-support-chat-v7.2,1,1,successor card-inclusion,successor no-readme,no-changes
+wolfram,wolfram/miquliz-120b-v2.0,wolfram/miquliz-120b-v2.0-2.4bpw-h6-exl2,1,1,no traces of change,"successor license-changed,
+successor tag-update","_name_or_path, torch_dtype, transformers_version"
+yanolja,yanolja/KoSOLAR-10.7B-v0.2,yanolja/KoSOLAR-10.7B-v0.1-deprecated,1,1,predecessor deprecated,successor readme-inclusion,no-information
+,,,,,,successor license-inclusion,no-changes
+,,,,,,predecessor deprecated,"_name_or_path, torch_dtype, transformers_version, vocab_size"

@@ -1,0 +1,80 @@
+Owner,main_model_name,to_compare,largefile_changed,readme_changed,changes,changes_updated,category
+922-CA,922-CA/LLilmonix3b-v0.3,922-CA/LLilmonix3b-v0.4a,1,1,no traces of change,no traces of change,no changes
+AdityaXPV,AdityaXPV/llama-2-7b-law-sage-v0.2,AdityaXPV/llama-2-7b-law-sage-v0.1,1,1,successor readme-inclusion, readme inclusion,no changes
+adonlee,adonlee/LLaMA_2_13B_SFT_v1.5,adonlee/LLaMA_2_13B_SFT_v1,1,1,no traces of change,no traces of change,no changes
+Ahmed107,Ahmed107/nllb200-ar-en_v11.1,Ahmed107/nllb200-ar-en_v11,1,1,successor basemodel-changed, basemodel changed,model changes
+alexredna,alexredna/Tukan-1.1B-Chat-v0.6,alexredna/Tukan-1.1B-Chat-v0.2,1,1,successor readme-removed, readme removed,no changes
+arentz,arentz/spambutcher_mistral_7b-v0.2,arentz/spambutcher_mistral_7b-v0.1,1,1,successor transformer-indication, transformer indication,training library changes
+ayeshgk,ayeshgk/codet5-small-ft-v10.1,ayeshgk/codet5-small-ft-v10,1,1,successor name-changes, name changes,others
+cookinai,cookinai/Blitz-v0.1,cookinai/Blitz-v0.2,1,1,successor transformer-indication, transformer indication,training library changes
+davzoku,davzoku/cria-llama2-7b-v1.3,davzoku/cria-llama2-7b-v1.2,1,1,successor readme-inclusion, readme inclusion,no changes
+Deepnoid,Deepnoid/deep-solar-v3.0,Deepnoid/deep-solar-Rev-v3.0.4,1,1,no traces of change,no traces of change,no changes
+EDM25,EDM25/luau-assistant-v0.1,EDM25/luau-assistant-lora,1,1,successor no-readme, no readme,no changes
+eriksu,eriksu/heiko-7b-v0.1,eriksu/heiko-7b-v0.2.gguf,1,1,successor readme-removed, readme removed,no changes
+GodsonNtungi,GodsonNtungi/SwahiliInstruct-v0.2,GodsonNtungi/Swahili-Instruct-V2-3,1,1,"successor license-inclusion,
+successor basemodel-inclusion",license inclusion,license
+GodsonNtungi,GodsonNtungi/SwahiliInstruct-v0.2,GodsonNtungi/Swahili-Instruct-V2-3,1,1,"successor license-inclusion,
+successor basemodel-inclusion", basemodel inclusion,model changes
+Hvsq,Hvsq/Babylona_v0.1,Hvsq/Babylona_v0.1b,1,1,no traces of change,no traces of change,no changes
+jondurbin,jondurbin/bagel-dpo-7b-v0.4,jondurbin/bagel-dpo-7b-v0.5,1,1,no traces of change,no traces of change,no changes
+Josephgflowers,Josephgflowers/TinyLlama-3T-Cinder-v1.3,Josephgflowers/TinyLlama-3T-Cinder-v1.2,1,1,no traces of change,no traces of change,no changes
+kim-sha,kim-sha/sql-sodabot-v1.0,kim-sha/sql-sodabot-v1.1,1,1,successor readme-removed, readme removed,no changes
+kmok1,kmok1/cs_m2m_0.01_50_v0.2,kmok1/cs_m2m_0.01_50_v0.1,1,1,successor readme-inclusion, readme inclusion,no changes
+LDCC,LDCC/LDCC-Instruct-Llama-2-ko-13B-v1.5,LDCC/LDCC-Instruct-Llama-2-ko-13B-v1.4,1,1,successor language-removed, language removed,others
+Locutusque,Locutusque/TinyMistral-248M-v2.5,Locutusque/TinyMistral-248M-v2,1,1,"successor dataset-increased,
+successor metrics-inclusion", dataset increased,dataset
+Locutusque,Locutusque/TinyMistral-248M-v2.5,Locutusque/TinyMistral-248M-v2,1,1,"successor dataset-increased,
+successor metrics-inclusion", metrics inclusion,performance metrics changes
+meetkai,meetkai/functionary-7b-v2.1,meetkai/functionary-7b-v2,1,1,no traces of change,no traces of change,no changes
+migtissera,migtissera/Tess-34B-v1.4,migtissera/Tess-34B-v1.5b,1,1,no traces of change,no traces of change,no changes
+mncai,mncai/agiin-11.1B-v0.1,mncai/agiin-11.1B-v0.0,1,1,successor dataset-update, dataset update,dataset
+mogaio,mogaio/TinyLlama-con-v0.2,mogaio/TinyLlama-con-v0.1,1,1,successor readme-removed, readme removed,no changes
+muzammil-eds,muzammil-eds/tinyllama-3T-128k-JsonExtract-v1.0,muzammil-eds/tinyllama-3T-128k-JsonExtract-v0.6,1,1,"successor language-updated
+successor transformer-updated
+successor generation—inference-updated
+successor basemodel-updated", language updated,others
+muzammil-eds,muzammil-eds/tinyllama-3T-128k-JsonExtract-v1.0,muzammil-eds/tinyllama-3T-128k-JsonExtract-v0.6,1,1,"successor language-updated
+successor transformer-updated
+successor generation—inference-updated
+successor basemodel-updated", transformer updated,training library changes
+muzammil-eds,muzammil-eds/tinyllama-3T-128k-JsonExtract-v1.0,muzammil-eds/tinyllama-3T-128k-JsonExtract-v0.6,1,1,"successor language-updated
+successor transformer-updated
+successor generation—inference-updated
+successor basemodel-updated", generation inference updated,configuration changes
+muzammil-eds,muzammil-eds/tinyllama-3T-128k-JsonExtract-v1.0,muzammil-eds/tinyllama-3T-128k-JsonExtract-v0.6,1,1,"successor language-updated
+successor transformer-updated
+successor generation—inference-updated
+successor basemodel-updated", basemodel updated,model changes
+mzbac,mzbac/llama2-13b-grammar-corrector-v1.1,mzbac/llama2-13b-grammar-corrector-v1.2,1,1,no traces of change,no traces of change,no changes
+nitky,nitky/Superswallow-70b-v0.3,nitky/Superswallow-70b-v0.2,1,1,no traces of change,no traces of change,no changes
+nomic-ai,nomic-ai/nomic-embed-text-v1.5,nomic-ai/nomic-embed-text-v1,1,1,no traces of change,no traces of change,no changes
+Obrolin,Obrolin/Kesehatan-7B-v0.1,s3nh/Obrolin-Kesehatan-7B-GGUF,1,1,"successor license-changed
+successor language-increased", license changed,license
+Obrolin,Obrolin/Kesehatan-7B-v0.1,s3nh/Obrolin-Kesehatan-7B-GGUF,1,1,"successor license-changed
+successor language-increased", language increased,others
+phanerozoic,phanerozoic/Mistral-Pirate-7b-v0.3,phanerozoic/MistralPirate-7b-v1,1,1,successor language-updated, language updated,others
+RJuro,RJuro/kanelsnegl-v0.1,RJuro/kanelsnegl-v0.2,1,1,no traces of change,no traces of change,no changes
+rwitz2,rwitz2/go-bruins-v2.1,rwitz2/go-bruins-v2.1.1,1,1,"successor license-removed,
+successor language-removed,
+successor pipelinetag-removed", license removed,license
+rwitz2,rwitz2/go-bruins-v2.1,rwitz2/go-bruins-v2.1.1,1,1,"successor license-removed,
+successor language-removed,
+successor pipelinetag-removed", language removed,others
+rwitz2,rwitz2/go-bruins-v2.1,rwitz2/go-bruins-v2.1.1,1,1,"successor license-removed,
+successor language-removed,
+successor pipelinetag-removed", pipelinetag removed,others
+saltlux,saltlux/luxia-21.4b-alignment-v1.0,saltlux/luxia-21.4b-alignment-v1.1,1,1,no traces of change,no traces of change,no changes
+Sam2x,Sam2x/Mistral_OpenArabic_v0.2,Sam2x/OpenArabic_v0.3,1,1,successor readme-removed, readme removed,no changes
+Tamnemtf,Tamnemtf/Ae-calem-mistral-7b-v0.1,Tamnemtf/Ae-calem-mistral-7b-v0.2,1,1,successor license-changed, license changed,license
+TinyLlama,TinyLlama/TinyLlama-1.1B-Chat-v1.0,TinyLlama/TinyLlama-1.1B-Chat-v0.6,1,1,"successor dataset-increased,
+successor widget-inclusion", dataset increased,dataset
+TinyLlama,TinyLlama/TinyLlama-1.1B-Chat-v1.0,TinyLlama/TinyLlama-1.1B-Chat-v0.6,1,1,"successor dataset-increased,
+successor widget-inclusion", widget inclusion,no changes
+unaidedelf87777,unaidedelf87777/wizard-mistral-v0.1,unaidedelf87777/wizard-mistral-v1-ep2,1,1,successor no-readme, no readme,no changes
+Undi95,Undi95/Mistral-11B-Airoboros-v0.1,Undi95/Mistral-11B-Airoboros-RP-v1,1,1,"successor license-changed,
+successor tag-update", license changed,license
+Undi95,Undi95/Mistral-11B-Airoboros-v0.1,Undi95/Mistral-11B-Airoboros-RP-v1,1,1,"successor license-changed,
+successor tag-update", tag update,others
+vaicai,vaicai/kaifa-support-chat-v7.3,vaicai/kaifa-support-chat-v7.2,1,1,successor readme-inclusion, readme inclusion,no changes
+wolfram,wolfram/miquliz-120b-v2.0,wolfram/miquliz-120b-v2.0-2.4bpw-h6-exl2,1,1,successor license-inclusion, license inclusion,license
+yanolja,yanolja/KoSOLAR-10.7B-v0.2,yanolja/KoSOLAR-10.7B-v0.1-deprecated,1,1,predecessor deprecated, deprecated,others
