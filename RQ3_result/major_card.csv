@@ -1,0 +1,113 @@
+Owner,main_model_name,to_compare,modelcard_abstract,category
+Ahmed007,Ahmed007/Copilot_for_poors_v2,Ahmed007/Copilot_for_poors,training parameters increase,configuration changes
+Ahmed007,Ahmed007/Copilot_for_poors_v2,Ahmed007/Copilot_for_poors, performance improvement,performance changes
+albert,albert/albert-xlarge-v1,albert/albert-xlarge-v2, performance improvement,performance changes
+alpcansoydas,alpcansoydas/bert-base-arabic-emotion-analysis-v2,alpcansoydas/bert-base-arabic-emotion-analysis, performance improvement,performance changes
+alpcansoydas,alpcansoydas/bert-base-arabic-emotion-analysis-v2,alpcansoydas/bert-base-arabic-emotion-analysis, dataset version increase,configuration changes
+alpcansoydas,alpcansoydas/bert-base-arabic-emotion-analysis-v2,alpcansoydas/bert-base-arabic-emotion-analysis, transformer version increase,configuration changes
+alpcansoydas,alpcansoydas/bert-base-arabic-emotion-analysis-v2,alpcansoydas/bert-base-arabic-emotion-analysis," tokenizer version increase,",configuration changes
+AmelieSchreiber,AmelieSchreiber/esm2_t6_8M_general_binding_sites_v2,AmelieSchreiber/esm2_t6_8M_general_binding_sites,performance improvement,performance changes
+AmelieSchreiber,AmelieSchreiber/esm2_t6_8M_general_binding_sites_v2,AmelieSchreiber/esm2_t6_8M_general_binding_sites, hyperperameter release,configuration changes
+ankhamun,ankhamun/x_x-v0,ankhamun/xxxI0v_v0Ixxx, no modelcard,dataset
+arjan-hada,arjan-hada/esm2_t12_35M_UR50D-finetuned-rep7868aav2-v0,arjan-hada/esm2_t12_35M_UR50D-finetuned-rep7868aav2-v1, training batchsize increase,configuration changes
+arjan-hada,arjan-hada/esm2_t12_35M_UR50D-finetuned-rep7868aav2-v0,arjan-hada/esm2_t12_35M_UR50D-finetuned-rep7868aav2-v1, evaluation batchsize increase,configuration changes
+arjan-hada,arjan-hada/esm2_t12_35M_UR50D-finetuned-rep7868aav2-v0,arjan-hada/esm2_t12_35M_UR50D-finetuned-rep7868aav2-v1, training result improvement,configuration changes
+arjan-hada,arjan-hada/esm2_t12_35M_UR50D-finetuned-rep7868aav2-v0,arjan-hada/esm2_t12_35M_UR50D-finetuned-rep7868aav2-v1, dataset version increase,configuration changes
+arjan-hada,arjan-hada/esm2_t12_35M_UR50D-finetuned-rep7868aav2-v0,arjan-hada/esm2_t12_35M_UR50D-finetuned-rep7868aav2-v1, tokenizer version increase,configuration changes
+athirdpath,athirdpath/Iambe-20b-DARE-v2,athirdpath/Iambe-20b-DARE, different merged base model,model architecture
+austinpatrickm,austinpatrickm/finetuned_bge_embeddings_v2,austinpatrickm/finetuned-bge-embeddings, normalized layer addition,configuration changes
+bedust,bedust/tinyllama-colorist-v2,bedust/tinyllama-colorist-lora, no modelcard,dataset
+Biomimicry-AI,Biomimicry-AI/ANIMA-Nectar-v2,Biomimicry-AI/ANIMA-Nectar-v3-GGUF, file format change,other changes
+Biomimicry-AI,Biomimicry-AI/ANIMA-Nectar-v2,Biomimicry-AI/ANIMA-Nectar-v3-GGUF, license inclusion,license
+chathuranga-jayanath,chathuranga-jayanath/codet5-base-v1,chathuranga-jayanath/codet5-base-v2,performance improvement,performance changes
+chathuranga-jayanath,chathuranga-jayanath/codet5-base-v1,chathuranga-jayanath/codet5-base-v2, train batch size decrease,configuration changes
+chathuranga-jayanath,chathuranga-jayanath/codet5-base-v1,chathuranga-jayanath/codet5-base-v2, evaluation batch size decrease,configuration changes
+chensyii,chensyii/my_bert_model_v2,chensyii/my_bert_model, modelcard addition,dataset
+ClaudiaRichard,ClaudiaRichard/mbti-bert-nli-finetuned_v2,ClaudiaRichard/mbti-bert-nli-finetuned,no traces of change,no changes
+Conrad747,Conrad747/luganda-ner-v6,Conrad747/luganda-ner-v5, different trained variant,model architecture
+Conrad747,Conrad747/luganda-ner-v6,Conrad747/luganda-ner-v5,performance decrease,performance changes
+Conrad747,Conrad747/luganda-ner-v6,Conrad747/luganda-ner-v5, transformer version increase,configuration changes
+Conrad747,Conrad747/luganda-ner-v6,Conrad747/luganda-ner-v5, dataset version increase,configuration changes
+Conrad747,Conrad747/luganda-ner-v6,Conrad747/luganda-ner-v5, tokenizer version increase,configuration changes
+csarron,csarron/mobilebert-uncased-squad-v2,csarron/mobilebert-uncased-squad-v1,no traces of changes,no changes
+cuadron11,cuadron11/suicide-distilbert-original-8-5-v2,cuadron11/suicide-distilbert-original-8-5,performance improvement,performance changes
+damerajee,damerajee/tinyllama-sft-small-v2,damerajee/Tinyllama-sft-small,no traces of changes,no changes
+decapoda-research,decapoda-research/Antares-11b-v2,decapoda-research/Antares-11b-v1, version deprecated,other changes
+evenicole,evenicole/google-play-sentiment-analysis_v2,evenicole/google-play-sentiment-analysis, performance improvement,performance changes
+Fizzarolli,Fizzarolli/sappha-2b-v1,Fizzarolli/sappha-2b-v3,dataset change,dataset
+Frrrrrrrrank,Frrrrrrrrank/Llama-2-7b-chat-hf-process_engineering_one_firsttwokap_v3,Frrrrrrrrank/Llama-2-7b-chat-hf-process_engineering_one_firsttwokap_v2, no modelcard,dataset
+gangyeolkim,gangyeolkim/kobart-korean-summarizer-v2,gangyeolkim/open-llama-2-ko-7b-summarization, basemodel change,model architecture
+genify-official,genify-official/genify-llama-2-7B-32K-Instruct-Q4-v2,genify-official/genify-llama-2-7B-32K-Instruct-Q4, modelcard addition,dataset
+Gnartiel,Gnartiel/multi-sbert-v2,Gnartiel/multi-sbert,no traces of changes,no changes
+GRPUI,GRPUI/sgugit-model-v3,GRPUI/sgugit-model,CO2 emission decreased,energy consumption
+GRPUI,GRPUI/sgugit-model-v3,GRPUI/sgugit-model, validation metrics increase,configuration changes
+Guilherme34,Guilherme34/SamanthaCode-v1,Guilherme34/SamanthaCode, no modelcard,dataset
+Hejjee,Hejjee/iDonna_depression_v2,Hejjee/iDonna_depression_v1, modelcard addition,dataset
+hoanghoavienvo,hoanghoavienvo/roberta-base-detect-cheapfake-co1-co2-v2,hoanghoavienvo/roberta-base-detect-cheapfake-co1-co2, performance deteriorate,performance changes
+iagoalves,iagoalves/sentiment-model-v2,iagoalves/sentiment-model-v3,no traces of changes,no changes
+IkariDev,IkariDev/Athena-v2,IkariDev/Athena-v1, multiple merge basemodel,model architecture
+intelliwork,intelliwork/Llama-2-7b-chat-hf-function-calling-v2,intelliwork/Llama-2-7b-chat-hf-function-calling-adapters-v2, modelcard addition,dataset
+intfloat,intfloat/e5-base-v2,intfloat/e5-base,no traces of changes,no changes
+Ja-ck,Ja-ck/Mistral-instruct-Y24-v5,Ja-ck/Mistral-instruct-Y24-v6, no modelcard,dataset
+Jairnetojp,Jairnetojp/hate-classification-distilbert-base-multilingual-cased-sentiments-student-v2,Jairnetojp/hate-classification-distilbert-base-multilingual-cased-sentiments-student, modelcard addition,dataset
+JoaoJunior,JoaoJunior/T5_APR_java_python_v4,JoaoJunior/T5_APR_java_python_v3, modelcard addition,dataset
+Joshua-Abok,Joshua-Abok/flan-t5-large-dialogsum_samsum_v2,Joshua-Abok/flan-t5-large-dialogsum_samsum_v1, modelcard addition,dataset
+jsfs11,jsfs11/MixtureofMerges-MoE-v2,jsfs11/MixtureofMerges-MoE-4x7b-v3, performance improvement,performance changes
+KnutJaegersberg,KnutJaegersberg/megatron-gpt2-345m-evol_instruct_v2,KnutJaegersberg/megatron-GPT-2-345m-EvolInstruct,no traces of changes,no changes
+krevas,krevas/LDCC-Instruct-Llama-2-ko-13B-v4,krevas/LDCC-Instruct-Llama-2-ko-13B-v4.1, modelcard empty,dataset
+martyn,martyn/mixtral-dare-8x7b-v0,martyn/mixtral-megamerge-dare-8x7b-v1, merge basemodel increase,model architecture
+MAsad789565,MAsad789565/GPT2_Finetuned_v1,MAsad789565/GPT2_Finetuned, modelcard deletion,dataset
+meetkai,meetkai/functionary-7b-v2,meetkai/functionary-7b-v2.1,no traces of changes,no changes
+mjkmain,mjkmain/gpt2-imdb-pos-v2,lvwerra/gpt2-imdb-pos, modelcard deletion,dataset
+moneyforward,moneyforward/houou-instruction-7b-v2,moneyforward/houou-instruction-7b-v1, instruction dataset increase,dataset
+moneyforward,moneyforward/houou-instruction-7b-v2,moneyforward/houou-instruction-7b-v1, basemodel comparison changed,performance changes
+moriire,moriire/medical-chat-v0,moriire/phi-2-medical-chat-v0-model, modelcard deletion,dataset
+mrm8488,mrm8488/chEMBL_smiles_v1,mrm8488/chEMBL26_smiles_v2, modelcard deletion,dataset
+NbAiLab,NbAiLab/nb-gpt-j-6B-v2,NbAiLab/nb-gpt-j-6B, no modelcard,dataset
+nchen909,nchen909/codellm-7b-v4,nchen909/codellm-7b-v5, modelcard deletion,dataset
+ncsgobubble,ncsgobubble/Llama-7B-rollercoaster_v2,ncsgobubble/Llama-7B-rollercoaster,no traces of changes,no changes
+netoferraz,netoferraz/distilbert-base-uncased-finetuned-pad-clf-v2,netoferraz/distilbert-base-uncased-finetuned-pad-clf-v1,modelcard deletion,dataset
+NikitaKukuzey,NikitaKukuzey/Lomonosov_small_v1,NikitaKukuzey/Lomonosov_small_v2,modelcard deletion,dataset
+nomic-ai,nomic-ai/nomic-embed-text-v1,nomic-ai/nomic-embed-text-v1.5, embedding size reduction,configuration changes
+ohwi,ohwi/japanese-stablelm-instruct-gamma-7b-dpo-uf-v0,ohwi/japanese-stablelm-instruct-gamma-7b-dpo-uf-v1,no traces of changes,no changes
+Oillim,Oillim/MiniLM-L6-v2,Oillim/sts_all-MiniLM-L6-v2,modelcard deletion,dataset
+oshizo,oshizo/japanese-sexual-moderation-v2,oshizo/japanese-sexual-moderation,no traces of changes,no changes
+plgrm720,plgrm720/tokipona_to_eng_model_v1,plgrm720/tokipona_to_eng_model_v1.1,modelcard deletion,dataset
+Prasadrao,Prasadrao/xlm-roberta-large-go-emotions-v3,Prasadrao/xlm-roberta-large-go-emotions-v2, hyperparameters decrease,configuration changes
+Prasadrao,Prasadrao/xlm-roberta-large-go-emotions-v3,Prasadrao/xlm-roberta-large-go-emotions-v2,precission improvement,performance changes
+qnguyen3,qnguyen3/quan-1.8b-base-v2,qnguyen3/quan-1.8b-base, trained variant change,model architecture
+qnguyen3,qnguyen3/quan-1.8b-base-v2,qnguyen3/quan-1.8b-base, dataset version increase,configuration changes
+qnguyen3,qnguyen3/quan-1.8b-base-v2,qnguyen3/quan-1.8b-base, tokenizer version increase,configuration changes
+qnguyen3,qnguyen3/quan-1.8b-base-v2,qnguyen3/quan-1.8b-base, transformer version increase,configuration changes
+recoilme,recoilme/insomnia_v1,recoilme/insomnia_v2,no traces of changes,no changes
+rhplus0831,rhplus0831/maid-yuzu-v1,rhplus0831/maid-yuzu-v2, merge basemodel decrease,model architecture
+rhplus0831,rhplus0831/maid-yuzu-v1,rhplus0831/maid-yuzu-v2," merged method change,",configuration changes
+rhysjones,rhysjones/phi-2-orange-v2,rhysjones/phi-2-orange,no traces of changes,no changes
+saileshaman,saileshaman/t5-small-finetuned-dialogsum-v3,saileshaman/t5-small-finetuned-dialogsum-v2,performance improvement,performance changes
+saileshaman,saileshaman/t5-small-finetuned-dialogsum-v3,saileshaman/t5-small-finetuned-dialogsum-v2, epoch increase,configuration changes
+saileshaman,saileshaman/t5-small-finetuned-dialogsum-v3,saileshaman/t5-small-finetuned-dialogsum-v2, transformer version decrease,training library changes
+saileshaman,saileshaman/t5-small-finetuned-dialogsum-v3,saileshaman/t5-small-finetuned-dialogsum-v2, dataset version decrease,dataset
+saileshaman,saileshaman/t5-small-finetuned-dialogsum-v3,saileshaman/t5-small-finetuned-dialogsum-v2, tokenizer version decrease,training library changes
+Shakhovak,Shakhovak/flan-t5-base-sheldon-chat-v2,Shakhovak/flan-t5-base-sheldon-chat,performance improvement,performance changes
+Shakhovak,Shakhovak/flan-t5-base-sheldon-chat-v2,Shakhovak/flan-t5-base-sheldon-chat, epoch increase,configuration changes
+Shakhovak,Shakhovak/flan-t5-base-sheldon-chat-v2,Shakhovak/flan-t5-base-sheldon-chat," dataset version decrease,",dataset
+ShynBui,ShynBui/comment_classification_v2,ShynBui/comment_classification,performance improvement,performance changes
+ShynBui,ShynBui/comment_classification_v2,ShynBui/comment_classification, transformer version decrease,training library changes
+sjrhuschlee,sjrhuschlee/deberta-v3-base-squad2-ext-v1,sjrhuschlee/deberta-v3-base-squad2, dataset increase,dataset
+sjrhuschlee,sjrhuschlee/deberta-v3-base-squad2-ext-v1,sjrhuschlee/deberta-v3-base-squad2, train bash size increase,configuration changes
+sjrhuschlee,sjrhuschlee/deberta-v3-base-squad2-ext-v1,sjrhuschlee/deberta-v3-base-squad2, epoch decrease,configuration changes
+sjrhuschlee,sjrhuschlee/deberta-v3-base-squad2-ext-v1,sjrhuschlee/deberta-v3-base-squad2, transformer version increase,configuration changes
+stabilityai,stabilityai/stablelm-base-alpha-3b-v2,stabilityai/stablelm-base-alpha-3b, hidden size derease,configuration changes
+stabilityai,stabilityai/stablelm-base-alpha-3b-v2,stabilityai/stablelm-base-alpha-3b, layer size decrease,configuration changes
+stabilityai,stabilityai/stablelm-base-alpha-3b-v2,stabilityai/stablelm-base-alpha-3b, token size decrease,configuration changes
+surprisedPikachu007,surprisedPikachu007/search_summarize_v1,surprisedPikachu007/mt5-small-search-summarizer, no modelcard,dataset
+Swarnava,Swarnava/T5_base_title_v2,Swarnava/T5_base_title, epoch decrease,configuration changes
+Swarnava,Swarnava/T5_base_title_v2,Swarnava/T5_base_title, performance deteriorate,performance changes
+Swarnava,Swarnava/T5_base_title_v2,Swarnava/T5_base_title, dataset version decrease,dataset
+Swarnava,Swarnava/T5_base_title_v2,Swarnava/T5_base_title, tokenizer version decrease,training library changes
+T-Systems-onsite,T-Systems-onsite/mt5-small-sum-de-en-v2,deutsche-telekom/mt5-small-sum-de-en-v1, dataset increase,dataset
+T-Systems-onsite,T-Systems-onsite/mt5-small-sum-de-en-v2,deutsche-telekom/mt5-small-sum-de-en-v1, train bash size increase,configuration changes
+T-Systems-onsite,T-Systems-onsite/mt5-small-sum-de-en-v2,deutsche-telekom/mt5-small-sum-de-en-v1, epoch decrease,configuration changes
+T-Systems-onsite,T-Systems-onsite/mt5-small-sum-de-en-v2,deutsche-telekom/mt5-small-sum-de-en-v1, transformer version increase,configuration changes
+tartuNLP,tartuNLP/EstBERT_NER_v2,tartuNLP/EstBERT_NER, result inclusion,license
+tartuNLP,tartuNLP/EstBERT_NER_v2,tartuNLP/EstBERT_NER,hyperparameters updated,configuration changes
