@@ -1,4 +1,4 @@
-# The Traits and Characteristics of Pre-trained Language Model Releases on HuggingFace: An Exploratory Analysis
+# Towards Semantic Versioning of Open Pre-trained Language Model Releases on Hugging Face
 Recently, WhatsApp and Facebook have integrated Meta AI, built upon their latest and most advanced technology, Llama-3, into their applications. This allows users to leverage Meta AI for various tasks.
 These advanced technologies are called pre-trained models. Many pre-trained models exist for different tasks, including Natural Language Processing (NLP), computer vision, and audio processing. The most common application of these technologies is large language processing (LLP), a subfield of NLP that focuses on enabling machines to understand,interpret, and generate human language. Pre-trained language models (PTLMs) are specifically designed for comprehending human language.
 PTLMs vary in size, with parameter counts ranging from thousands to billions. Models with over 1 million parameters are classified as pre-trained large language models (PTLLMs), such as Llama, GPT, BERT, T5, and RoBERTa.
